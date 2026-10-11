@@ -535,16 +535,6 @@ Quiz System
 Result Management
 ```
 
----
-
-## Author
-
-"Taqdees Fatima"
-
-BS Data Science Student
-
-### Technical Skills
-
 - Python
 - Data Analysis
 - Pandas
